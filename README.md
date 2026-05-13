@@ -12,6 +12,7 @@
 
 <br/><br/>
 
+<a href="https://mightbeanshuu.github.io/portfolio/"><img src="https://img.shields.io/badge/%F0%9F%8C%90_portfolio-live_site-00F5D4?style=for-the-badge&labelColor=0D0D0D"/></a>
 <a href="assets/anshu_aman_resume.pdf"><img src="https://img.shields.io/badge/%F0%9F%93%84_resume-download-f72585?style=for-the-badge&labelColor=0D0D0D"/></a>
 <a href="https://github.com/mightbeanshuu?tab=followers"><img src="https://img.shields.io/github/followers/mightbeanshuu?label=followers&style=for-the-badge&color=8338EC&labelColor=0D0D0D&logo=github&logoColor=00F5D4"/></a>
 <img src="https://komarev.com/ghpvc/?username=mightbeanshuu&style=for-the-badge&color=00F5D4&label=u+looked+%F0%9F%91%80&labelColor=0D0D0D"/>
@@ -234,6 +235,24 @@ last_thought:    "what if i just rm -rf node_modules"
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🪩 &nbsp;<a href="https://github.com/mightbeanshuu/portfolio">portfolio</a> &nbsp;·&nbsp; <a href="https://mightbeanshuu.github.io/portfolio/">live ↗</a>
+> personal site · 3D mouse-tracking robot (three.js), WebGL fluid bg, particle constellation, draggable carousel, konami easter egg.
+
+<img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=00F5D4&labelColor=0D0D0D"/>
+<img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=00F5D4&labelColor=0D0D0D"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=00F5D4&labelColor=0D0D0D"/>
+<img src="https://img.shields.io/badge/GitHub_Pages-181717?style=flat-square&logo=github&logoColor=00F5D4&labelColor=0D0D0D"/>
+
+</td>
+<td width="50%" valign="top">
+
+<!-- reserved slot -->
+
+</td>
+</tr>
 </table>
 
 <br/>
@@ -399,6 +418,7 @@ last_thought:    "what if i just rm -rf node_modules"
 
 <div align="center">
 
+<a href="https://mightbeanshuu.github.io/portfolio/"><img src="https://img.shields.io/badge/-portfolio_site-00F5D4?style=for-the-badge&logo=googlechrome&logoColor=0D0D0D&labelColor=0D0D0D"/></a>
 <a href="mailto:amananshu2004@gmail.com"><img src="https://img.shields.io/badge/-amananshu2004%40gmail.com-f72585?style=for-the-badge&logo=gmail&logoColor=00F5D4&labelColor=0D0D0D"/></a>
 <a href="mailto:btech10151.23@bitmesra.ac.in"><img src="https://img.shields.io/badge/-college_mail-EA4335?style=for-the-badge&logo=gmail&logoColor=00F5D4&labelColor=0D0D0D"/></a>
 <a href="https://github.com/mightbeanshuu"><img src="https://img.shields.io/badge/-mightbeanshuu-8338EC?style=for-the-badge&logo=github&logoColor=00F5D4&labelColor=0D0D0D"/></a>
