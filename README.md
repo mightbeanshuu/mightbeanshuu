@@ -1,46 +1,65 @@
-<!-- ╔══════════════════════════════════════════════════════════╗ -->
-<!-- ║                  ANSHU // PROFILE.MD                     ║ -->
-<!-- ║                  > SYSTEM ONLINE                         ║ -->
-<!-- ╚══════════════════════════════════════════════════════════╝ -->
+<!-- ╔══════════════════════════════════════════════════════╗ -->
+<!-- ║   anshu.exe — has not crashed yet (real) (no cap)    ║ -->
+<!-- ╚══════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f72585,50:8338ec,100:00f5d4&height=220&section=header&text=A%20N%20S%20H%20U&fontSize=88&fontColor=ffffff&fontAlignY=38&desc=%E2%96%93%E2%96%93%E2%96%93%20full-stack%20%E2%80%A2%20ai%20%E2%80%A2%20building%20on%20the%20edge%20%E2%96%93%E2%96%93%E2%96%93&descSize=18&descAlignY=60&animation=fadeIn" alt="banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f72585,33:b5179e,66:8338ec,100:00f5d4&height=240&section=header&text=anshu&fontSize=110&fontColor=ffffff&fontAlignY=36&desc=%E2%80%BB%20full-stack%20engineer%20%C2%B7%20ai%20gremlin%20%C2%B7%20professional%20shipper%2C%20amateur%20sleeper%20%E2%80%BB&descSize=16&descAlignY=58&animation=fadeIn" alt="banner" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=700&color=00F5D4&background=0D0D0D00&center=true&vCenter=true&width=720&lines=%3E+booting+anshu.exe...;%3E+whoami;%3E+full-stack+engineer+%2F%2F+ai+tinkerer;%3E+shipping+%3E+sleeping;%3E+01001000+01101001+00100001" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2000&pause=600&color=00F5D4&background=0D0D0D00&center=true&vCenter=true&width=780&lines=%3E+booting+anshu.exe...;%3E+hi+%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+%F0%9F%AB%A1;%3E+full-stack+engineer+%2F%2F+ai+gremlin;%3E+ships+code+%3E+ships+sleep;%3E+powered+by+caffeine+%2B+spite;%3E+git+push+origin+chaos+%E2%9C%A8" alt="typing"/>
 
 <br/><br/>
 
-<a href="https://github.com/mightbeanshuu?tab=followers"><img src="https://img.shields.io/github/followers/mightbeanshuu?label=FOLLOWERS&style=for-the-badge&color=f72585&labelColor=0D0D0D&logo=github&logoColor=00F5D4"/></a>
-<img src="https://komarev.com/ghpvc/?username=mightbeanshuu&style=for-the-badge&color=00F5D4&label=VISITORS&labelColor=0D0D0D"/>
-<a href="mailto:amananshu2004@gmail.com"><img src="https://img.shields.io/badge/MAIL_ME-8338EC?style=for-the-badge&logo=protonmail&logoColor=00F5D4&labelColor=0D0D0D"/></a>
+<a href="https://github.com/mightbeanshuu?tab=followers"><img src="https://img.shields.io/github/followers/mightbeanshuu?label=followers&style=for-the-badge&color=f72585&labelColor=0D0D0D&logo=github&logoColor=00F5D4"/></a>
+<img src="https://komarev.com/ghpvc/?username=mightbeanshuu&style=for-the-badge&color=00F5D4&label=u+looked+%F0%9F%91%80&labelColor=0D0D0D"/>
+<a href="mailto:amananshu2004@gmail.com"><img src="https://img.shields.io/badge/dm_me-8338EC?style=for-the-badge&logo=gmail&logoColor=00F5D4&labelColor=0D0D0D"/></a>
 
 </div>
 
 <br/>
 
+## <samp>// &nbsp;v i b e &nbsp; c h e c k &nbsp; (✿◠‿◠)</samp>
+
+```yaml
+status:          [▓▓▓▓▓▓▓▓▓▓] online // chaotic good
+currently:       shipping > sleeping
+listening_to:    lofi + the sound of my fan crying
+fighting:        typescript errors
+winning:         occasionally
+debugging:       my life choices (& sometimes the code)
+fuel:            ▓▓▓▓▓▓▓▓░░ caffeine // ▓▓▓▓▓▓▓▓▓▓ spite
+mood:            "it works on my machine" ʕ•ᴥ•ʔ
+last_thought:    "what if i just rm -rf node_modules"
+```
+
+<br/>
+
+## <samp>// &nbsp;w h o a m i &nbsp; ૮₍ ˃ ⤙ ˂ ₎ა</samp>
+
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
-║  > cat ~/.profile                                                    ║
+║  $ cat ~/.profile                                                    ║
 ╠══════════════════════════════════════════════════════════════════════╣
-║   handle    : @mightbeanshuu                                         ║
-║   role      : full-stack engineer · ai builder                       ║
-║   stack     : js · ts · react · node · python · ai                   ║
-║   focus     : shipping things that feel alive                        ║
-║   coffee    : ▓▓▓▓▓▓▓▓▓▓ critical                                    ║
-║   status    : ▓▓▓▓▓▓▓▓▓▓ ONLINE                                      ║
+║   handle    →  @mightbeanshuu                                        ║
+║   class     →  full-stack engineer · ai builder                      ║
+║   weapons   →  js · ts · react · node · python · curiosity           ║
+║   quest     →  shipping things that feel alive                       ║
+║   side_hustle → making computers go beep boop                        ║
+║   alignment →  chaotic builder                                       ║
+║   status    →  ▓▓▓▓▓▓▓▓▓▓ ONLINE  ʕ•́ᴥ•̀ʔっ♡                          ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
 <br/>
 
-## <samp>▓▓▓ &nbsp;S T A C K &nbsp; ▓▓▓</samp>
+## <samp>// &nbsp;t h e &nbsp; s t a c k &nbsp; >:3</samp>
+
+> *aka the core dependencies of my personality*
 
 <div align="center">
 
-<!-- LANGUAGES -->
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=0D0D0D&labelColor=0D0D0D"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=00F5D4&labelColor=0D0D0D"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=00F5D4&labelColor=0D0D0D"/>
@@ -49,7 +68,6 @@
 
 <br/>
 
-<!-- FRAMEWORKS / RUNTIME -->
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=0D0D0D&labelColor=0D0D0D"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=00F5D4&labelColor=0D0D0D"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=00F5D4&labelColor=0D0D0D"/>
@@ -58,7 +76,6 @@
 
 <br/>
 
-<!-- DATA / AI / CLOUD -->
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=00F5D4&labelColor=0D0D0D"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=00F5D4&labelColor=0D0D0D"/>
 <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=0D0D0D&labelColor=0D0D0D"/>
@@ -67,7 +84,6 @@
 
 <br/>
 
-<!-- DEPLOY / TOOLS -->
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=00F5D4&labelColor=0D0D0D"/>
 <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=0D0D0D&labelColor=0D0D0D"/>
 <img src="https://img.shields.io/badge/Chrome_Ext-4285F4?style=for-the-badge&logo=googlechrome&logoColor=00F5D4&labelColor=0D0D0D"/>
@@ -79,7 +95,7 @@
 
 <br/>
 
-## <samp>▓▓▓ &nbsp;N O W &nbsp; S H I P P I N G &nbsp; ▓▓▓</samp>
+## <samp>// &nbsp;s h i t &nbsp; i'm &nbsp; s h i p p i n g &nbsp; rn &nbsp; (｡•̀ᴗ-)✧</samp>
 
 <div align="center">
 
@@ -101,7 +117,23 @@
 
 <br/>
 
-## <samp>▓▓▓ &nbsp;S Y S T E M &nbsp; M E T R I C S &nbsp; ▓▓▓</samp>
+## <samp>// &nbsp;t h e &nbsp; r e c e i p t s &nbsp; 📟</samp>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mightbeanshuu&theme=2077" width="98%"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mightbeanshuu&theme=2077" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mightbeanshuu&theme=2077" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mightbeanshuu&theme=2077&utcOffset=5.5" width="32%"/>
+
+</div>
+
+<br/>
+
+## <samp>// &nbsp;s t a t s &nbsp; &amp; &nbsp; c o p e &nbsp; 📊</samp>
 
 <div align="center">
 
@@ -110,14 +142,13 @@
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mightbeanshuu&theme=synthwave&bg_color=0D0D0D&border_color=f72585&title_color=00F5D4&text_color=ffffff&layout=donut-vertical&langs_count=8&hide_border=false" width="48%"/>
-<img src="https://github-profile-trophy.vercel.app/?username=mightbeanshuu&theme=radical&no-bg=true&no-frame=true&margin-w=8&margin-h=8&column=4&row=2" width="48%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=mightbeanshuu&theme=radical&no-bg=true&no-frame=true&margin-w=8&margin-h=8&column=7&row=1" width="98%"/>
 
 </div>
 
 <br/>
 
-## <samp>▓▓▓ &nbsp;C O N T R I B U T I O N &nbsp; G R I D &nbsp; ▓▓▓</samp>
+## <samp>// &nbsp;t h e &nbsp; s n a k e &nbsp; e a t s &nbsp; m y &nbsp; c o m m i t s &nbsp; 🐍</samp>
 
 <div align="center">
 
@@ -129,13 +160,43 @@
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mightbeanshuu&bg_color=0D0D0D&color=00F5D4&line=f72585&point=8338EC&area=true&area_color=8338EC&hide_border=true&custom_title=%E2%96%93%E2%96%93%20commit%20signal%20%E2%96%93%E2%96%93" width="98%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mightbeanshuu&bg_color=0D0D0D&color=00F5D4&line=f72585&point=8338EC&area=true&area_color=8338EC&hide_border=true&custom_title=%2F%2F%20commit%20signal%20%E2%80%94%20last%2031%20days" width="98%"/>
 
 </div>
 
 <br/>
 
-## <samp>▓▓▓ &nbsp;C O N N E C T &nbsp; ▓▓▓</samp>
+## <samp>// &nbsp;r a t e &nbsp; m e &nbsp; ✦</samp>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/skill_issue-low-00F5D4?style=for-the-badge&labelColor=0D0D0D"/>
+<img src="https://img.shields.io/badge/git_rebase_confidence-medium-FFB703?style=for-the-badge&labelColor=0D0D0D"/>
+<img src="https://img.shields.io/badge/will_use_tabs_or_spaces-yes-8338EC?style=for-the-badge&labelColor=0D0D0D"/>
+<img src="https://img.shields.io/badge/regex_writing_ability-✨_vibes_based_✨-f72585?style=for-the-badge&labelColor=0D0D0D"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/avg_bugs_per_PR-(╯°□°)╯︵_┻━┻-f72585?style=for-the-badge&labelColor=0D0D0D"/>
+<img src="https://img.shields.io/badge/commits_at_3am-frequent-8338EC?style=for-the-badge&labelColor=0D0D0D"/>
+<img src="https://img.shields.io/badge/main_branch_pushes-i_plead_the_fifth-FF006E?style=for-the-badge&labelColor=0D0D0D"/>
+<img src="https://img.shields.io/badge/it_works_on_my_machine-always-00F5D4?style=for-the-badge&labelColor=0D0D0D"/>
+
+</div>
+
+<br/>
+
+## <samp>// &nbsp;w o r d s &nbsp; t o &nbsp; l i v e &nbsp; b y &nbsp; 💭</samp>
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="80%"/>
+
+</div>
+
+<br/>
+
+## <samp>// &nbsp;c a t c h &nbsp; m e &nbsp; 📡</samp>
 
 <div align="center">
 
@@ -147,18 +208,21 @@
 <br/>
 
 ```
-> tail -f /var/log/anshu.log
-─────────────────────────────────────────────
-[OK]  systems nominal
-[OK]  caffeine pipeline stable
-[??]  next ship: classified
-[--]  END OF TRANSMISSION
-─────────────────────────────────────────────
-> _
+$ tail -f /var/log/anshu.log
+──────────────────────────────────────────────
+[ok]  systems nominal, vibes immaculate
+[ok]  caffeine pipeline stable
+[??]  next ship: classified (jk i have no plan)
+[♡]   thanks for scrolling all the way down (´｡• ᵕ •｡`)
+[--]  end of transmission // catch you on the timeline
+──────────────────────────────────────────────
+$ _
 ```
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5d4,50:8338ec,100:f72585&height=120&section=footer&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5d4,33:8338ec,66:b5179e,100:f72585&height=120&section=footer&animation=fadeIn"/>
+
+<sub>made with ♡ + caffeine + zero sleep · ʕ•́ᴥ•̀ʔっ</sub>
 
 </div>
