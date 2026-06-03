@@ -446,6 +446,4 @@ $ _
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5d4,33:8338ec,66:b5179e,100:f72585&height=120&section=footer&animation=fadeIn"/>
 
-<sub>made with ♡ + caffeine + zero sleep · ʕ•́ᴥ•̀ʔっ</sub>
-
 </div>
